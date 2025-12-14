@@ -1,0 +1,31 @@
+{
+  "name": "vc-joiner-made-by-tecnoplayz",
+  "version": "1.0.0",
+  "description": "This Tools is Made By TecnoPlayZ So If You Are Making YT Video From This Tools Kindly Give Us Credit Or We Can Take Down Your Video!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "axios": "^1.7.9",
+    "center-text": "^0.1.0",
+    "chalk": "^5.4.1",
+    "chalk-animation": "^2.0.3",
+    "cli-table3": "^0.6.5",
+    "colors": "^1.4.0",
+    "discord.js": "^14.17.3",
+    "discord.js-selfbot": "^12.0.2",
+    "discord.js-selfbot-v13": "^3.6.0",
+    "express": "^4.21.2",
+    "figlet": "^1.8.0",
+    "fs": "^0.0.1-security",
+    "kleur": "^4.1.5",
+    "moment": "^2.30.1",
+    "readline": "^1.3.0",
+    "winston": "^3.17.0"
+  }
+}
